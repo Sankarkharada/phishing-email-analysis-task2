@@ -1,0 +1,10 @@
+Return-Path: <abc.bank.verify@gmail.com>
+Received: from unknown [197.210.45.22] (helo=mail.abc-bank.com)
+  by mail.example.com with ESMTP
+  id 1234567890ABC;
+  Tue, 18 June 2025 09:31:25 +0530
+Received-SPF: fail (gmail.com: domain of abc.bank.verify@gmail.com does not designate 197.210.45.22 as permitted sender)
+Authentication-Results: spf=fail dkim=fail
+Message-ID: <ABC123456@example.com>
+Date: Tue, 18 June 2025 09:30:00 +0530
+From: ABC Bank <abc.bank.verify@gmail.com>
